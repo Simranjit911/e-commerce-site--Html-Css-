@@ -322,6 +322,9 @@ footer a:hover {
     flex-basis: 50%;
     margin-bottom: 40px;
   }
+  .features{
+    width: 60%;
+  }
 }
 
 /* ----------------all Prioducts------- */
